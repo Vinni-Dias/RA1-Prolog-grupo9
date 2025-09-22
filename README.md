@@ -24,11 +24,11 @@ O sistema funciona por meio de um **questionário dinâmico**, no qual o usuári
 
 ## Estrutura do Projeto
 
-Ra1_prolog_grupo9.pl -> código fonte (base de conhecimento, motor de inferência, interface do usuário e fluxo de execução)
-Perfil1_prolog_grupo9.pl -> Perfil de teste 1 (lógica e estatística)
-Perfil2_prolog_grupo9.pl -> Perfil de teste 2 (programação e web)
-Perfil3_prolog_grupo9.pl -> Perfil de teste 3 (redes e segurança)
-README.md -> Documentação do projeto
+- Ra1_prolog_grupo9.pl -> código fonte (base de conhecimento, motor de inferência, interface do usuário e fluxo de execução)
+- Perfil1_prolog_grupo9.pl -> Perfil de teste 1 (lógica e estatística)
+- Perfil2_prolog_grupo9.pl -> Perfil de teste 2 (programação e web)
+- Perfil3_prolog_grupo9.pl -> Perfil de teste 3 (redes e segurança)
+- README.md -> Documentação do projeto
 
 ---
 
