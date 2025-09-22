@@ -22,7 +22,7 @@ O sistema funciona por meio de um **questionário dinâmico**, no qual o usuári
 
 ---
 
-Estrutura do Projeto
+## Estrutura do Projeto
 
 Ra1_prolog_grupo9.pl -> código fonte (base de conhecimento, motor de inferência, interface do usuário e fluxo de execução)
 Perfil1_prolog_grupo9.pl -> Perfil de teste 1 (lógica e estatística)
@@ -32,7 +32,7 @@ README.md -> Documentação do projeto
 
 ---
 
-Execução do Programa
+## Execução do Programa
 Modo Interativo (usuário responde às perguntas)
 
 Iniciar a interação:
@@ -61,7 +61,7 @@ Em seguida, execute:
 
 ---
 
-Funcionalidades
+## Funcionalidades
 
 - 5 trilhas de especialização predefinidas;
 
