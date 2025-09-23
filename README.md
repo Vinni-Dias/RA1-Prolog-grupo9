@@ -1,9 +1,9 @@
 # Sistema Especialista para Recomendação de Trilha Acadêmica
 
 ##  Instituição
-PUCPR – Pontifícia Universidade Católica do Paraná  
-Disciplina: Programação Lógica e Funcional 
-Professor: Frank Coelho Alcantara
+- PUCPR – Pontifícia Universidade Católica do Paraná  
+- Disciplina: Programação Lógica e Funcional 
+- Professor: Frank Coelho Alcantara
 
 ---
 
