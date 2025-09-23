@@ -44,9 +44,9 @@ Ao final, será exibida a trilha recomendada em ordem de compatibilidade, junto 
 Modo de Teste (com arquivos de perfil)
 
 Executar um perfil de teste:
-?- testar('Perfil1_prolog_grupo9.pl').
-?- testar('Perfil2_prolog_grupo9.pl').
-?- testar('Perfil3_prolog_grupo9.pl').
+- ?- testar('Perfil1_prolog_grupo9.pl').
+- ?- testar('Perfil2_prolog_grupo9.pl').
+- ?- testar('Perfil3_prolog_grupo9.pl').
 
 O sistema exibirá automaticamente a recomendação e a justificativa, sem necessidade de interação.
 
@@ -57,9 +57,9 @@ Como o SWISH não suporta consult/1 para carregar arquivos externos:
 Cole o conteúdo de um dos perfis (Perfil1_prolog_grupo9.pl, Perfil2_prolog_grupo9.pl ou Perfil3_prolog_grupo9.pl) no final do código.
 
 Em seguida, execute:
-?- testar('ia').
-?- testar('web').
-?- testar('seguranca').
+- ?- testar('ia').
+- ?- testar('web').
+- ?- testar('seguranca').
 
 ---
 
