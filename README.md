@@ -57,7 +57,9 @@ Como o SWISH não suporta consult/1 para carregar arquivos externos:
 Cole o conteúdo de um dos perfis (Perfil1_prolog_grupo9.pl, Perfil2_prolog_grupo9.pl ou Perfil3_prolog_grupo9.pl) no final do código.
 
 Em seguida, execute:
-?- recomenda(R), exibe_resultado(R).
+?- testar('ia').
+?- testar('web').
+?- testar('seguranca').
 
 ---
 
